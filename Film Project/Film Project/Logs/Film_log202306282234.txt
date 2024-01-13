@@ -1,0 +1,34 @@
+2023-06-28 22:34:47.378 +07:00 [INF] Request starting HTTP/2 PUT https://localhost:7064/api/Directors/Update-Director-By-Id/6 application/json 140
+2023-06-28 22:34:47.393 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.DirectorsController.UpdateDirectorById (Film Project)'
+2023-06-28 22:34:47.397 +07:00 [INF] Route matched with {action = "UpdateDirectorById", controller = "Directors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateDirectorById(Int32, Film_Project.Models.DTO.DirectorDTO) on controller Film_Project.Controllers.DirectorsController (Film Project).
+2023-06-28 22:34:47.410 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:34:47.427 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[DateOfBirth], [d].[FirstName], [d].[LastName]
+FROM [Directors] AS [d]
+WHERE [d].[Id] = @__id_0
+2023-06-28 22:34:47.448 +07:00 [INF] Executed DbCommand (4ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Directors] SET [DateOfBirth] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT;
+2023-06-28 22:34:47.476 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__directorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[FilmId], [f].[DirectorId]
+FROM [FilmDirectors] AS [f]
+WHERE [f].[DirectorId] = @__directorId_0
+2023-06-28 22:34:47.494 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [FilmDirectors]
+WHERE [DirectorId] = @p0 AND [FilmId] = @p1;
+SELECT @@ROWCOUNT;
+2023-06-28 22:34:47.511 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__filmId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [f].[Id], [f].[Date], [f].[Description], [f].[Genre], [f].[Name], [f].[Rate]
+FROM [Films] AS [f]
+WHERE [f].[Id] = @__filmId_0
+2023-06-28 22:34:47.534 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [FilmDirectors] ([DirectorId], [FilmId])
+VALUES (@p0, @p1);
+2023-06-28 22:34:47.544 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.DTO.DirectorDTO'.
+2023-06-28 22:34:47.550 +07:00 [INF] Executed action Film_Project.Controllers.DirectorsController.UpdateDirectorById (Film Project) in 150.6899ms
+2023-06-28 22:34:47.556 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.DirectorsController.UpdateDirectorById (Film Project)'
+2023-06-28 22:34:47.560 +07:00 [INF] Request finished HTTP/2 PUT https://localhost:7064/api/Directors/Update-Director-By-Id/6 application/json 140 - 200 - application/json;+charset=utf-8 180.9592ms

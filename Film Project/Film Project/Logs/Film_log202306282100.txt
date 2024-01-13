@@ -1,0 +1,6 @@
+2023-06-28 21:00:10.663 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/api/Actors/Get-All-Actors - -
+2023-06-28 21:00:11.055 +07:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Read|Write)
+2023-06-28 21:00:11.088 +07:00 [INF] AuthenticationScheme: Bearer was challenged.
+2023-06-28 21:00:11.093 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/api/Actors/Get-All-Actors - - - 401 0 - 429.3770ms

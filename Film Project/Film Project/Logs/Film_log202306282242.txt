@@ -1,0 +1,17 @@
+2023-06-28 22:42:22.929 +07:00 [INF] Request starting HTTP/2 DELETE https://localhost:7064/api/Films/Delete-Film-By-Id/9 - -
+2023-06-28 22:42:22.944 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.FilmsController.DeleteFilmById (Film Project)'
+2023-06-28 22:42:22.949 +07:00 [INF] Route matched with {action = "DeleteFilmById", controller = "Films"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeleteFilmById(Int32) on controller Film_Project.Controllers.FilmsController (Film Project).
+2023-06-28 22:42:22.961 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:42:22.985 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [f].[Id], [f].[Date], [f].[Description], [f].[Genre], [f].[Name], [f].[Rate]
+FROM [Films] AS [f]
+WHERE [f].[Id] = @__id_0
+2023-06-28 22:42:23.017 +07:00 [INF] Executed DbCommand (12ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Films]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;
+2023-06-28 22:42:23.026 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.Domain.Films'.
+2023-06-28 22:42:23.032 +07:00 [INF] Executed action Film_Project.Controllers.FilmsController.DeleteFilmById (Film Project) in 80.503ms
+2023-06-28 22:42:23.034 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.FilmsController.DeleteFilmById (Film Project)'
+2023-06-28 22:42:23.036 +07:00 [INF] Request finished HTTP/2 DELETE https://localhost:7064/api/Films/Delete-Film-By-Id/9 - - - 200 - application/json;+charset=utf-8 107.0139ms

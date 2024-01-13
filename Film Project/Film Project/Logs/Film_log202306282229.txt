@@ -1,0 +1,13 @@
+2023-06-28 22:29:25.103 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/api/Directors/Get-All-Directors - -
+2023-06-28 22:29:25.122 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.DirectorsController.GetAllDirectors (Film Project)'
+2023-06-28 22:29:25.127 +07:00 [INF] Route matched with {action = "GetAllDirectors", controller = "Directors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllDirectors() on controller Film_Project.Controllers.DirectorsController (Film Project).
+2023-06-28 22:29:25.136 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:29:25.194 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[DateOfBirth], [d].[FirstName], [d].[LastName], [f].[FilmId], [f].[DirectorId]
+FROM [Directors] AS [d]
+LEFT JOIN [FilmDirectors] AS [f] ON [d].[Id] = [f].[DirectorId]
+ORDER BY [d].[Id], [f].[FilmId]
+2023-06-28 22:29:25.244 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Film_Project.Models.DTO.DirectorIdDTO, Film Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-06-28 22:29:25.258 +07:00 [INF] Executed action Film_Project.Controllers.DirectorsController.GetAllDirectors (Film Project) in 127.2676ms
+2023-06-28 22:29:25.263 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.DirectorsController.GetAllDirectors (Film Project)'
+2023-06-28 22:29:25.273 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/api/Directors/Get-All-Directors - - - 200 - application/json;+charset=utf-8 172.9938ms

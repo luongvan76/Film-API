@@ -1,0 +1,19 @@
+2023-06-28 22:20:17.196 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/Directors/Add-Director application/json 104
+2023-06-28 22:20:17.222 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.DirectorsController.AddDirector (Film Project)'
+2023-06-28 22:20:17.226 +07:00 [INF] Route matched with {action = "AddDirector", controller = "Directors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddDirector(Film_Project.Models.DTO.DirectorDTO) on controller Film_Project.Controllers.DirectorsController (Film Project).
+2023-06-28 22:20:17.248 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:20:17.342 +07:00 [INF] Executed DbCommand (27ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Directors] ([DateOfBirth], [FirstName], [LastName])
+VALUES (@p0, @p1, @p2);
+SELECT [Id]
+FROM [Directors]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2023-06-28 22:20:17.414 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@__filmId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [f].[Id], [f].[Date], [f].[Description], [f].[Genre], [f].[Name], [f].[Rate]
+FROM [Films] AS [f]
+WHERE [f].[Id] = @__filmId_0
+2023-06-28 22:20:17.421 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.DTO.DirectorDTO'.
+2023-06-28 22:20:17.426 +07:00 [INF] Executed action Film_Project.Controllers.DirectorsController.AddDirector (Film Project) in 197.1088ms
+2023-06-28 22:20:17.428 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.DirectorsController.AddDirector (Film Project)'
+2023-06-28 22:20:17.430 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/Directors/Add-Director application/json 104 - 200 - application/json;+charset=utf-8 238.9073ms

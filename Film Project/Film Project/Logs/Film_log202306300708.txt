@@ -1,0 +1,8 @@
+2023-06-30 07:08:05.622 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/User/Register application/json 92
+2023-06-30 07:08:05.624 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.UserController.Register (Film Project)'
+2023-06-30 07:08:05.626 +07:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(Film_Project.Models.DTO.RegisterRequestDTO) on controller Film_Project.Controllers.UserController (Film Project).
+2023-06-30 07:08:05.628 +07:00 [WRN] User password validation failed: PasswordTooShort.
+2023-06-30 07:08:05.628 +07:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-06-30 07:08:05.629 +07:00 [INF] Executed action Film_Project.Controllers.UserController.Register (Film Project) in 1.5547ms
+2023-06-30 07:08:05.630 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.UserController.Register (Film Project)'
+2023-06-30 07:08:05.631 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/User/Register application/json 92 - 400 - text/plain;+charset=utf-8 9.0632ms

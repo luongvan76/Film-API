@@ -1,0 +1,12 @@
+2023-06-28 22:31:45.707 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/api/Directors/Get-Director-By-Id/6 - -
+2023-06-28 22:31:45.730 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.DirectorsController.GetDirectorById (Film Project)'
+2023-06-28 22:31:45.739 +07:00 [INF] Route matched with {action = "GetDirectorById", controller = "Directors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDirectorById(Int32) on controller Film_Project.Controllers.DirectorsController (Film Project).
+2023-06-28 22:31:45.747 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:31:45.765 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[DateOfBirth], [d].[FirstName], [d].[LastName]
+FROM [Directors] AS [d]
+WHERE [d].[Id] = @__id_0
+2023-06-28 22:31:45.768 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.Domain.Directors'.
+2023-06-28 22:31:45.773 +07:00 [INF] Executed action Film_Project.Controllers.DirectorsController.GetDirectorById (Film Project) in 29.1031ms
+2023-06-28 22:31:45.774 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.DirectorsController.GetDirectorById (Film Project)'
+2023-06-28 22:31:45.775 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/api/Directors/Get-Director-By-Id/6 - - - 200 - application/json;+charset=utf-8 68.4066ms

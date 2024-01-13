@@ -1,0 +1,30 @@
+2023-06-28 22:15:00.057 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-28 22:15:00.181 +07:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Film_Project.Models.DTO.LoginRequestDTO) on controller Film_Project.Controllers.UserController (Film Project).
+2023-06-28 22:15:02.537 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'FilmDirectorDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:15:05.880 +07:00 [INF] Executed DbCommand (230ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2023-06-28 22:15:07.289 +07:00 [INF] Executed DbCommand (109ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2023-06-28 22:15:07.622 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.DTO.LoginResponseDTO'.
+2023-06-28 22:15:07.646 +07:00 [INF] Executed action Film_Project.Controllers.UserController.Login (Film Project) in 7446.8777ms
+2023-06-28 22:15:07.650 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-28 22:15:07.665 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/User/Login application/json 63 - 200 - application/json;+charset=utf-8 7914.5224ms
+2023-06-28 22:15:52.782 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/api/Actors/Get-All-Actors - -
+2023-06-28 22:15:52.940 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.ActorsController.GetAllActors (Film Project)'
+2023-06-28 22:15:52.944 +07:00 [INF] Route matched with {action = "GetAllActors", controller = "Actors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllActors() on controller Film_Project.Controllers.ActorsController (Film Project).
+2023-06-28 22:15:53.133 +07:00 [WRN] No store type was specified for the decimal property 'Rate' on entity type 'Films'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-06-28 22:15:53.181 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:15:53.390 +07:00 [INF] Executed DbCommand (32ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[DateOfBirth], [a].[FirstName], [a].[LastName], [f].[FilmId], [f].[ActorId]
+FROM [Actors] AS [a]
+LEFT JOIN [FilmActors] AS [f] ON [a].[Id] = [f].[ActorId]
+ORDER BY [a].[Id], [f].[FilmId]
+2023-06-28 22:15:53.474 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Film_Project.Models.DTO.ActorIdDTO, Film Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-06-28 22:15:53.487 +07:00 [INF] Executed action Film_Project.Controllers.ActorsController.GetAllActors (Film Project) in 539.045ms
+2023-06-28 22:15:53.488 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.ActorsController.GetAllActors (Film Project)'
+2023-06-28 22:15:53.489 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/api/Actors/Get-All-Actors - - - 200 - application/json;+charset=utf-8 707.7649ms

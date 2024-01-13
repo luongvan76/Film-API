@@ -1,0 +1,23 @@
+2023-06-28 22:26:30.888 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/Actors/Add-Actor application/json 105
+2023-06-28 22:26:30.911 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.ActorsController.AddActor (Film Project)'
+2023-06-28 22:26:30.916 +07:00 [INF] Route matched with {action = "AddActor", controller = "Actors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddActor(Film_Project.Models.DTO.ActorDTO) on controller Film_Project.Controllers.ActorsController (Film Project).
+2023-06-28 22:26:30.929 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:26:30.954 +07:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Actors] ([DateOfBirth], [FirstName], [LastName])
+VALUES (@p0, @p1, @p2);
+SELECT [Id]
+FROM [Actors]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2023-06-28 22:26:30.972 +07:00 [INF] Executed DbCommand (4ms) [Parameters=[@__filmId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [f].[Id], [f].[Date], [f].[Description], [f].[Genre], [f].[Name], [f].[Rate]
+FROM [Films] AS [f]
+WHERE [f].[Id] = @__filmId_0
+2023-06-28 22:26:30.989 +07:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [FilmActors] ([ActorId], [FilmId])
+VALUES (@p0, @p1);
+2023-06-28 22:26:30.996 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.DTO.ActorDTO'.
+2023-06-28 22:26:31.000 +07:00 [INF] Executed action Film_Project.Controllers.ActorsController.AddActor (Film Project) in 76.5347ms
+2023-06-28 22:26:31.004 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.ActorsController.AddActor (Film Project)'
+2023-06-28 22:26:31.006 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/Actors/Add-Actor application/json 105 - 200 - application/json;+charset=utf-8 118.4756ms

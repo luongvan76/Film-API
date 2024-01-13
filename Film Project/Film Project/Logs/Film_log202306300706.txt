@@ -1,0 +1,44 @@
+2023-06-30 07:06:08.210 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/swagger/index.html - -
+2023-06-30 07:06:08.218 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/swagger/index.html - - - 200 - text/html;charset=utf-8 7.5549ms
+2023-06-30 07:06:08.228 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/_framework/aspnetcore-browser-refresh.js - -
+2023-06-30 07:06:08.231 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 2.7920ms
+2023-06-30 07:06:08.242 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/_vs/browserLink - -
+2023-06-30 07:06:08.247 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 4.8190ms
+2023-06-30 07:06:08.398 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/swagger/v1/swagger.json - -
+2023-06-30 07:06:08.402 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.3727ms
+2023-06-30 07:06:35.941 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/User/Login application/json 64
+2023-06-30 07:06:35.971 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-30 07:06:35.997 +07:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Film_Project.Models.DTO.LoginRequestDTO) on controller Film_Project.Controllers.UserController (Film Project).
+2023-06-30 07:06:36.687 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'FilmDirectorDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-30 07:06:37.171 +07:00 [INF] Executed DbCommand (42ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2023-06-30 07:06:37.199 +07:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-06-30 07:06:37.206 +07:00 [INF] Executed action Film_Project.Controllers.UserController.Login (Film Project) in 1201.289ms
+2023-06-30 07:06:37.208 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-30 07:06:37.212 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/User/Login application/json 64 - 400 - text/plain;+charset=utf-8 1270.9673ms
+2023-06-30 07:06:44.480 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/User/Login application/json 65
+2023-06-30 07:06:44.484 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-30 07:06:44.487 +07:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Film_Project.Models.DTO.LoginRequestDTO) on controller Film_Project.Controllers.UserController (Film Project).
+2023-06-30 07:06:44.527 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'FilmDirectorDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-30 07:06:44.560 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2023-06-30 07:06:44.563 +07:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-06-30 07:06:44.564 +07:00 [INF] Executed action Film_Project.Controllers.UserController.Login (Film Project) in 73.993ms
+2023-06-30 07:06:44.564 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-30 07:06:44.565 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/User/Login application/json 65 - 400 - text/plain;+charset=utf-8 85.2168ms
+2023-06-30 07:06:50.013 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/User/Login application/json 62
+2023-06-30 07:06:50.015 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-30 07:06:50.016 +07:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Film_Project.Models.DTO.LoginRequestDTO) on controller Film_Project.Controllers.UserController (Film Project).
+2023-06-30 07:06:50.031 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'FilmDirectorDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-30 07:06:50.062 +07:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2023-06-30 07:06:50.065 +07:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-06-30 07:06:50.065 +07:00 [INF] Executed action Film_Project.Controllers.UserController.Login (Film Project) in 48.3699ms
+2023-06-30 07:06:50.066 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-30 07:06:50.066 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/User/Login application/json 62 - 400 - text/plain;+charset=utf-8 53.6139ms

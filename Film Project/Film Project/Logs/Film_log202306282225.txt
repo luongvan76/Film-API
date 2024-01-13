@@ -1,0 +1,18 @@
+2023-06-28 22:25:41.929 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/api/Films/Get-All-Films - -
+2023-06-28 22:25:41.957 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.FilmsController.GetAllFilms (Film Project)'
+2023-06-28 22:25:41.959 +07:00 [INF] Route matched with {action = "GetAllFilms", controller = "Films"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllFilms(System.String, System.String, System.String, Boolean) on controller Film_Project.Controllers.FilmsController (Film Project).
+2023-06-28 22:25:41.961 +07:00 [INF] GetAll Film Action method was invoked
+2023-06-28 22:25:41.962 +07:00 [WRN] This is a warning log
+2023-06-28 22:25:41.962 +07:00 [ERR] This is a error log
+2023-06-28 22:25:41.963 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:25:41.979 +07:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[Date], [f].[Description], [f].[Genre], [f].[Name], [f].[Rate], [f0].[FilmId], [f0].[ActorId], [f1].[FilmId], [f1].[DirectorId]
+FROM [Films] AS [f]
+LEFT JOIN [FilmActors] AS [f0] ON [f].[Id] = [f0].[FilmId]
+LEFT JOIN [FilmDirectors] AS [f1] ON [f].[Id] = [f1].[FilmId]
+ORDER BY [f].[Id], [f0].[FilmId], [f0].[ActorId], [f1].[FilmId]
+2023-06-28 22:25:41.982 +07:00 [INF] Finished GetAllFilm request with data[{"Id":9,"Name":"Detective Conan","Description":" The manga series has been made into an anime television show.","Date":"2023-06-28T15:21:43.673","Genre":"cartoon","Rate":4.50,"Directors":[6],"Actors":[]}]
+2023-06-28 22:25:41.983 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Film_Project.Models.DTO.FilmIdDTO, Film Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-06-28 22:25:41.984 +07:00 [INF] Executed action Film_Project.Controllers.FilmsController.GetAllFilms (Film Project) in 23.4285ms
+2023-06-28 22:25:41.989 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.FilmsController.GetAllFilms (Film Project)'
+2023-06-28 22:25:41.990 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/api/Films/Get-All-Films - - - 200 - application/json;+charset=utf-8 61.4544ms

@@ -1,0 +1,31 @@
+2023-06-28 22:40:07.641 +07:00 [INF] User profile is available. Using 'C:\Users\TRUC LY\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-28 22:40:07.877 +07:00 [INF] Now listening on: https://localhost:7064
+2023-06-28 22:40:07.878 +07:00 [INF] Now listening on: http://localhost:5276
+2023-06-28 22:40:07.881 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-28 22:40:07.881 +07:00 [INF] Hosting environment: Development
+2023-06-28 22:40:07.882 +07:00 [INF] Content root path: C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\
+2023-06-28 22:40:08.665 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/swagger/index.html - -
+2023-06-28 22:40:08.973 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/swagger/index.html - - - 200 - text/html;charset=utf-8 312.4215ms
+2023-06-28 22:40:09.040 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/_vs/browserLink - -
+2023-06-28 22:40:09.041 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/_framework/aspnetcore-browser-refresh.js - -
+2023-06-28 22:40:09.067 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 26.0426ms
+2023-06-28 22:40:09.105 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 64.4238ms
+2023-06-28 22:40:09.821 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/swagger/v1/swagger.json - -
+2023-06-28 22:40:10.055 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 233.2455ms
+2023-06-28 22:40:29.040 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/User/Login application/json 63
+2023-06-28 22:40:29.175 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-28 22:40:29.312 +07:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Film_Project.Models.DTO.LoginRequestDTO) on controller Film_Project.Controllers.UserController (Film Project).
+2023-06-28 22:40:32.874 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'FilmDirectorDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:40:35.855 +07:00 [INF] Executed DbCommand (242ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2023-06-28 22:40:37.546 +07:00 [INF] Executed DbCommand (112ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2023-06-28 22:40:37.958 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.DTO.LoginResponseDTO'.
+2023-06-28 22:40:37.985 +07:00 [INF] Executed action Film_Project.Controllers.UserController.Login (Film Project) in 8650.8642ms
+2023-06-28 22:40:37.992 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.UserController.Login (Film Project)'
+2023-06-28 22:40:38.011 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/User/Login application/json 63 - 200 - application/json;+charset=utf-8 8971.1116ms

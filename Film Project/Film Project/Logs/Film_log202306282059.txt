@@ -1,0 +1,14 @@
+2023-06-28 20:59:43.553 +07:00 [INF] User profile is available. Using 'C:\Users\TRUC LY\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-28 20:59:44.893 +07:00 [INF] Now listening on: https://localhost:7064
+2023-06-28 20:59:44.900 +07:00 [INF] Now listening on: http://localhost:5276
+2023-06-28 20:59:44.904 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-28 20:59:44.905 +07:00 [INF] Hosting environment: Development
+2023-06-28 20:59:44.906 +07:00 [INF] Content root path: C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\
+2023-06-28 20:59:50.107 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/swagger/index.html - -
+2023-06-28 20:59:52.174 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/_framework/aspnetcore-browser-refresh.js - -
+2023-06-28 20:59:52.202 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/_vs/browserLink - -
+2023-06-28 20:59:52.225 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/swagger/index.html - - - 200 - text/html;charset=utf-8 2123.9935ms
+2023-06-28 20:59:52.225 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 48.4423ms
+2023-06-28 20:59:52.400 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 198.4591ms
+2023-06-28 20:59:53.394 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/swagger/v1/swagger.json - -
+2023-06-28 20:59:53.800 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 405.9232ms

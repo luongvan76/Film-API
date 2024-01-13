@@ -1,0 +1,40 @@
+2023-06-28 22:24:44.715 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7064/api/Directors/Get-All-Directors - -
+2023-06-28 22:24:44.758 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.DirectorsController.GetAllDirectors (Film Project)'
+2023-06-28 22:24:44.762 +07:00 [INF] Route matched with {action = "GetAllDirectors", controller = "Directors"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllDirectors() on controller Film_Project.Controllers.DirectorsController (Film Project).
+2023-06-28 22:24:44.768 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:24:44.796 +07:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[DateOfBirth], [d].[FirstName], [d].[LastName], [f].[FilmId], [f].[DirectorId]
+FROM [Directors] AS [d]
+LEFT JOIN [FilmDirectors] AS [f] ON [d].[Id] = [f].[DirectorId]
+ORDER BY [d].[Id], [f].[FilmId]
+2023-06-28 22:24:44.800 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Film_Project.Models.DTO.DirectorIdDTO, Film Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-06-28 22:24:44.804 +07:00 [INF] Executed action Film_Project.Controllers.DirectorsController.GetAllDirectors (Film Project) in 37.7752ms
+2023-06-28 22:24:44.806 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.DirectorsController.GetAllDirectors (Film Project)'
+2023-06-28 22:24:44.808 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7064/api/Directors/Get-All-Directors - - - 200 - application/json;+charset=utf-8 99.2451ms
+2023-06-28 22:24:55.148 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7064/api/Films/Add-Film application/json 242
+2023-06-28 22:24:55.150 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.FilmsController.AddFilm (Film Project)'
+2023-06-28 22:24:55.157 +07:00 [INF] Route matched with {action = "AddFilm", controller = "Films"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddFilm(Film_Project.Models.DTO.FilmDTO) on controller Film_Project.Controllers.FilmsController (Film Project).
+2023-06-28 22:24:55.184 +07:00 [INF] Entity Framework Core 6.0.16 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: None
+2023-06-28 22:24:55.226 +07:00 [INF] Executed DbCommand (24ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Precision = 18) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Films] ([Date], [Description], [Genre], [Name], [Rate])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Films]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2023-06-28 22:24:55.265 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@__directorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[DateOfBirth], [d].[FirstName], [d].[LastName]
+FROM [Directors] AS [d]
+WHERE [d].[Id] = @__directorId_0
+2023-06-28 22:24:55.329 +07:00 [INF] Executed DbCommand (18ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [FilmDirectors] ([DirectorId], [FilmId])
+VALUES (@p0, @p1);
+2023-06-28 22:24:55.346 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@__actorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[DateOfBirth], [a].[FirstName], [a].[LastName]
+FROM [Actors] AS [a]
+WHERE [a].[Id] = @__actorId_0
+2023-06-28 22:24:55.348 +07:00 [INF] Executing OkObjectResult, writing value of type 'Film_Project.Models.DTO.FilmDTO'.
+2023-06-28 22:24:55.350 +07:00 [INF] Executed action Film_Project.Controllers.FilmsController.AddFilm (Film Project) in 188.8276ms
+2023-06-28 22:24:55.356 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.FilmsController.AddFilm (Film Project)'
+2023-06-28 22:24:55.357 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7064/api/Films/Add-Film application/json 242 - 200 - application/json;+charset=utf-8 209.3153ms

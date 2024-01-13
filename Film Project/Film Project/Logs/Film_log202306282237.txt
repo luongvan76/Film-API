@@ -1,0 +1,7 @@
+2023-06-28 22:37:23.245 +07:00 [INF] Request starting HTTP/2 PUT https://localhost:7064/api/Films/Update-Film-By-Id/9 application/json 259
+2023-06-28 22:37:23.311 +07:00 [INF] Executing endpoint 'Film_Project.Controllers.FilmsController.UpdateFilmById (Film Project)'
+2023-06-28 22:37:23.315 +07:00 [INF] Route matched with {action = "UpdateFilmById", controller = "Films"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateFilmById(Int32, Film_Project.Models.DTO.FilmDTO) on controller Film_Project.Controllers.FilmsController (Film Project).
+2023-06-28 22:37:23.325 +07:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2023-06-28 22:37:23.329 +07:00 [INF] Executed action Film_Project.Controllers.FilmsController.UpdateFilmById (Film Project) in 5.7274ms
+2023-06-28 22:37:23.330 +07:00 [INF] Executed endpoint 'Film_Project.Controllers.FilmsController.UpdateFilmById (Film Project)'
+2023-06-28 22:37:23.333 +07:00 [INF] Request finished HTTP/2 PUT https://localhost:7064/api/Films/Update-Film-By-Id/9 application/json 259 - 400 - application/problem+json;+charset=utf-8 87.6751ms

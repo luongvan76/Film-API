@@ -1,0 +1,374 @@
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.AssemblyReference.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfoInputs.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfo.cs
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CoreCompileInputs.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Film Project.exe
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Film Project.deps.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Film Project.runtimeconfig.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Film Project.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Film Project.pdb
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.Film Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Film Project.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Film Project.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Film Project.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\scopedcss\bundle\Film Project.styles.css
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CopyComplete
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\refint\Film Project.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.pdb
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\Film Project.genruntimeconfig.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Film Project\Film Project\obj\Debug\net6.0\ref\Film Project.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.AssemblyReference.cache
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfoInputs.cache
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfo.cs
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CoreCompileInputs.cache
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\refint\Film Project.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.pdb
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\appsettings.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.exe
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.deps.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.runtimeconfig.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.pdb
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.Film Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Film Project.props
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Film Project.props
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Film Project.props
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\scopedcss\bundle\Film Project.styles.css
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CopyComplete
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.genruntimeconfig.cache
+C:\Users\KameDev\Documents\Code\Film Project\Film Project\obj\Debug\net6.0\ref\Film Project.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.exe
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.deps.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.runtimeconfig.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.pdb
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.AssemblyReference.cache
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfoInputs.cache
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfo.cs
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CoreCompileInputs.cache
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.Film Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Film Project.props
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Film Project.props
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Film Project.props
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\scopedcss\bundle\Film Project.styles.css
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CopyComplete
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\refint\Film Project.dll
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.pdb
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.genruntimeconfig.cache
+C:\Users\Kise\Downloads\Film Project\Film Project\Film Project\obj\Debug\net6.0\ref\Film Project.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\appsettings.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.exe
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.deps.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.runtimeconfig.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Film Project.pdb
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.AssemblyReference.cache
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfoInputs.cache
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfo.cs
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CoreCompileInputs.cache
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.Film Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Film Project.props
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Film Project.props
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Film Project.props
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\scopedcss\bundle\Film Project.styles.css
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CopyComplete
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\refint\Film Project.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.pdb
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\Film Project.genruntimeconfig.cache
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\obj\Debug\net6.0\ref\Film Project.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\TRUC LY\Desktop\12101002\Lập trình Web 2\Film Project\Film Project\Film Project\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.exe
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.deps.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.runtimeconfig.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Film Project.pdb
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.AssemblyReference.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfoInputs.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.AssemblyInfo.cs
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CoreCompileInputs.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.Film Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Film Project.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Film Project.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Film Project.props
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\scopedcss\bundle\Film Project.styles.css
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.csproj.CopyComplete
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\refint\Film Project.dll
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.pdb
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\Film Project.genruntimeconfig.cache
+C:\Users\Kise\OneDrive - Yersin University\Môn Học\Lập Trình Web 2 - Mr. Tấn\Báo Cáo Môn Lập Trình Web 2\Source Code\Film Project\Film Project\obj\Debug\net6.0\ref\Film Project.dll
